@@ -1,9 +1,9 @@
 import download from './download.png';
 import Logo from './logo.svg';
-import preview from './preview.png';
+import Preview from './preview.png';
 
 export {
   download,
-  logo,
-  preview,
+  Logo,
+  Preview,
 };
